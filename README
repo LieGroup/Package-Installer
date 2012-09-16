@@ -1,2 +1,6 @@
 Automatically download, manage, configure and  install source codes(for Linux)
 
+Apache Portable Runtime Library(APR and APR-util) is needed to build this tool, which can be download from:
+http://apr.apache.org/
+
+
